@@ -23,6 +23,8 @@ with open("inputs/2") as f:
                     lowest[c] = int(r[i])
         for num in lowest:
             low *= num
+        #https: // www.google.com / search?q = multiply + all + numbers + in +list + python & oq = multiply + all + numbers + in +list + & gs_lcrp = EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIODc0M2owajGoAgCwAgA & sourceid = chrome & ie = UTF - 8
+        # google ai help
 
         total += low
     # prints result from last file as well for some reason
