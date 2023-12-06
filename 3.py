@@ -1,4 +1,4 @@
-# Passed !
+# Passed (Both) !
 def is_symbol(val):
     if not val.isdigit() and (val != ".") and (val != ""):
         return True
